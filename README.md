@@ -1,4 +1,4 @@
-# backstop-takehome
+# takehome
 
 Empty project.
 
